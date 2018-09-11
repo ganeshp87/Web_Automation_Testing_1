@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Ganesh Ecommerce Automation Practice Suite]">
+  <listeners>
+    <listener class-name="com.automationpractice.ExtentReportListener.ExtentReporterNG"/>
+    <listener class-name="com.automationpractice.util.ItestListeners"/>
+  </listeners>
+  <test name="Automation Practice App Test Cases">
+    <classes>
+      <class name="com.automationpractice.testcases.LoginPageTest"/>
+    </classes>
+  </test> <!-- Automation Practice App Test Cases -->
+</suite> <!-- Failed suite [Ganesh Ecommerce Automation Practice Suite] -->

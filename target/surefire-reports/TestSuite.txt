@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 397.227 s <<< FAILURE! - in TestSuite
+setUp(com.automationpractice.testcases.MyPersonalPageTest)  Time elapsed: 42.544 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: 
+Timeout loading page after 20000ms
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RCBAN0045', ip: '192.168.218.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 14444, moz:profile: C:\Users\Ganesh\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 24b48cf4-73c3-467c-9299-9981e309feb8
+	at com.automationpractice.testcases.MyPersonalPageTest.setUp(MyPersonalPageTest.java:36)
+

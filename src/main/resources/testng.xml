@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ganesh Ecommerce Automation Practice Suite">
+
+	<listeners>
+		<listener class-name="com.automationpractice.ExtentReportListener.ExtentReporterNG" />
+		<listener class-name="com.automationpractice.util.ItestListeners" />
+		
+	</listeners>
+
+	<test name="Automation Practice App Test Cases">
+		<classes>
+		<class name="com.automationpractice.testcases.FullPageScreenshot"></class>
+			<!-- 
+			<class name="com.automationpractice.testcases.LoginPageTest"></class>
+			<class name="com.automationpractice.testcases.MyAccountPageTest"></class>
+			<class name="com.automationpractice.testcases.UserRegistrationPageTest"></class>
+			<class name="com.automationpractice.testcases.MyPersonalPageTest"></class>  -->
+			
+			
+
+		</classes>
+	</test>
+</suite>

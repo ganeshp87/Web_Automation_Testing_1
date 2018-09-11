@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="0" total="16" passed="15">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Ganesh Ecommerce Automation Practice Suite" duration-ms="394980" started-at="2018-09-09T17:18:49Z" finished-at="2018-09-09T17:25:24Z">
+    <groups>
+    </groups>
+    <test name="Automation Practice App Test Cases" duration-ms="394980" started-at="2018-09-09T17:18:49Z" finished-at="2018-09-09T17:25:24Z">
+      <class name="com.automationpractice.testcases.UserRegistrationPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.UserRegistrationPageTest@6276ae34]" name="setUp" is-config="true" duration-ms="23984" started-at="2018-09-09T22:54:42Z" finished-at="2018-09-09T22:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserRegistrationTest()[pri:2, instance:com.automationpractice.testcases.UserRegistrationPageTest@6276ae34]" name="verifyUserRegistrationTest" duration-ms="15181" started-at="2018-09-09T22:55:06Z" finished-at="2018-09-09T22:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserRegistrationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.UserRegistrationPageTest@6276ae34]" name="tearDown" is-config="true" duration-ms="3256" started-at="2018-09-09T22:55:21Z" finished-at="2018-09-09T22:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.testcases.UserRegistrationPageTest -->
+      <class name="com.automationpractice.testcases.MyAccountPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="setUp" is-config="true" duration-ms="24155" started-at="2018-09-09T22:49:45Z" finished-at="2018-09-09T22:50:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserLabelTest()[pri:1, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="verifyUserLabelTest" duration-ms="85" started-at="2018-09-09T22:50:09Z" finished-at="2018-09-09T22:50:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLabelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="tearDown" is-config="true" duration-ms="1921" started-at="2018-09-09T22:50:09Z" finished-at="2018-09-09T22:50:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="setUp" is-config="true" duration-ms="17306" started-at="2018-09-09T22:50:11Z" finished-at="2018-09-09T22:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAccountLabelTest()[pri:2, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="verifyAccountLabelTest" duration-ms="82" started-at="2018-09-09T22:50:28Z" finished-at="2018-09-09T22:50:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountLabelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="tearDown" is-config="true" duration-ms="2478" started-at="2018-09-09T22:50:28Z" finished-at="2018-09-09T22:50:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="setUp" is-config="true" duration-ms="17500" started-at="2018-09-09T22:50:31Z" finished-at="2018-09-09T22:50:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyBackToHomeLinkTest()[pri:3, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="verifyBackToHomeLinkTest" duration-ms="2982" started-at="2018-09-09T22:50:48Z" finished-at="2018-09-09T22:50:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBackToHomeLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="tearDown" is-config="true" duration-ms="2677" started-at="2018-09-09T22:50:51Z" finished-at="2018-09-09T22:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="setUp" is-config="true" duration-ms="17716" started-at="2018-09-09T22:50:54Z" finished-at="2018-09-09T22:51:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyOrderHistoryLinkTest()[pri:4, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="verifyOrderHistoryLinkTest" duration-ms="4330" started-at="2018-09-09T22:51:12Z" finished-at="2018-09-09T22:51:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderHistoryLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="tearDown" is-config="true" duration-ms="2378" started-at="2018-09-09T22:51:16Z" finished-at="2018-09-09T22:51:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="setUp" is-config="true" duration-ms="24088" started-at="2018-09-09T22:51:18Z" finished-at="2018-09-09T22:51:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCreditSlipsLinkTest()[pri:5, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="verifyCreditSlipsLinkTest" duration-ms="1358" started-at="2018-09-09T22:51:42Z" finished-at="2018-09-09T22:51:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreditSlipsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="tearDown" is-config="true" duration-ms="2527" started-at="2018-09-09T22:51:44Z" finished-at="2018-09-09T22:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="setUp" is-config="true" duration-ms="16937" started-at="2018-09-09T22:51:46Z" finished-at="2018-09-09T22:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMyAddressPageLinkTest()[pri:6, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="verifyMyAddressPageLinkTest" duration-ms="1778" started-at="2018-09-09T22:52:03Z" finished-at="2018-09-09T22:52:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyAddressPageLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="tearDown" is-config="true" duration-ms="2679" started-at="2018-09-09T22:52:05Z" finished-at="2018-09-09T22:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="setUp" is-config="true" duration-ms="17163" started-at="2018-09-09T22:52:08Z" finished-at="2018-09-09T22:52:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMyPersonalPageLinkTest()[pri:7, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="verifyMyPersonalPageLinkTest" duration-ms="1807" started-at="2018-09-09T22:52:25Z" finished-at="2018-09-09T22:52:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyPersonalPageLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="tearDown" is-config="true" duration-ms="2911" started-at="2018-09-09T22:52:27Z" finished-at="2018-09-09T22:52:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="setUp" is-config="true" duration-ms="19195" started-at="2018-09-09T22:52:29Z" finished-at="2018-09-09T22:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMyWishListPageLinkTest()[pri:8, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="verifyMyWishListPageLinkTest" duration-ms="1913" started-at="2018-09-09T22:52:49Z" finished-at="2018-09-09T22:52:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyWishListPageLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyAccountPageTest@61a485d2]" name="tearDown" is-config="true" duration-ms="2630" started-at="2018-09-09T22:52:51Z" finished-at="2018-09-09T22:52:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.testcases.MyAccountPageTest -->
+      <class name="com.automationpractice.testcases.MyPersonalPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="setUp" is-config="true" duration-ms="20480" started-at="2018-09-09T22:52:53Z" finished-at="2018-09-09T22:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMyPersonalPageTitleTest()[pri:1, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="verifyMyPersonalPageTitleTest" duration-ms="6" started-at="2018-09-09T22:53:14Z" finished-at="2018-09-09T22:53:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyPersonalPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="tearDown" is-config="true" duration-ms="3040" started-at="2018-09-09T22:53:14Z" finished-at="2018-09-09T22:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="setUp" is-config="true" duration-ms="19001" started-at="2018-09-09T22:53:17Z" finished-at="2018-09-09T22:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMyPersonalLabelTest()[pri:2, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="verifyMyPersonalLabelTest" duration-ms="99" started-at="2018-09-09T22:53:36Z" finished-at="2018-09-09T22:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyPersonalLabelTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="tearDown" is-config="true" duration-ms="2463" started-at="2018-09-09T22:53:36Z" finished-at="2018-09-09T22:53:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="setUp" is-config="true" duration-ms="20737" started-at="2018-09-09T22:53:38Z" finished-at="2018-09-09T22:53:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyBackToHomeLinkTest()[pri:3, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="verifyBackToHomeLinkTest" duration-ms="2644" started-at="2018-09-09T22:53:59Z" finished-at="2018-09-09T22:54:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBackToHomeLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="tearDown" is-config="true" duration-ms="6439" started-at="2018-09-09T22:54:02Z" finished-at="2018-09-09T22:54:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="FAIL" signature="setUp()[pri:0, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="setUp" is-config="true" duration-ms="0" started-at="2018-09-09T22:54:08Z" finished-at="2018-09-09T22:54:08Z">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Timeout loading page after 20000ms
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RCBAN0045', ip: '192.168.218.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 14444, moz:profile: C:\Users\Ganesh\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 24b48cf4-73c3-467c-9299-9981e309feb8]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Timeout loading page after 20000ms
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'RCBAN0045', ip: '192.168.218.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_171'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 62.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 14444, moz:profile: C:\Users\Ganesh\AppData\Loc..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 24b48cf4-73c3-467c-9299-9981e309feb8
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)
+	at org.openqa.selenium.remote.RemoteWebDriver.get(RemoteWebDriver.java:276)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.lambda$new$1(EventFiringWebDriver.java:105)
+	at com.sun.proxy.$Proxy6.get(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.get(EventFiringWebDriver.java:165)
+	at com.automationpractice.base.TestBase.initialization(TestBase.java:66)
+	at com.automationpractice.testcases.MyPersonalPageTest.setUp(MyPersonalPageTest.java:36)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:514)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:215)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:589)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:383)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:344)
+	at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:125)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:417)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-09-09T22:54:42Z" finished-at="2018-09-09T22:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="SKIP" signature="verifyBackToAccountLinkTest()[pri:4, instance:com.automationpractice.testcases.MyPersonalPageTest@39fb3ab6]" name="verifyBackToAccountLinkTest" duration-ms="0" started-at="2018-09-09T22:54:42Z" finished-at="2018-09-09T22:54:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBackToAccountLinkTest -->
+      </class> <!-- com.automationpractice.testcases.MyPersonalPageTest -->
+      <class name="com.automationpractice.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.LoginPageTest@59e84876]" name="setUp" is-config="true" duration-ms="15234" started-at="2018-09-09T22:48:49Z" finished-at="2018-09-09T22:49:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="signInTest()[pri:1, instance:com.automationpractice.testcases.LoginPageTest@59e84876]" name="signInTest" duration-ms="4207" started-at="2018-09-09T22:49:04Z" finished-at="2018-09-09T22:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.LoginPageTest@59e84876]" name="tearDown" is-config="true" duration-ms="2408" started-at="2018-09-09T22:49:09Z" finished-at="2018-09-09T22:49:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.LoginPageTest@59e84876]" name="setUp" is-config="true" duration-ms="12207" started-at="2018-09-09T22:49:11Z" finished-at="2018-09-09T22:49:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageLogoTest()[pri:2, instance:com.automationpractice.testcases.LoginPageTest@59e84876]" name="loginPageLogoTest" duration-ms="75" started-at="2018-09-09T22:49:23Z" finished-at="2018-09-09T22:49:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.LoginPageTest@59e84876]" name="tearDown" is-config="true" duration-ms="3136" started-at="2018-09-09T22:49:23Z" finished-at="2018-09-09T22:49:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.automationpractice.testcases.LoginPageTest@59e84876]" name="setUp" is-config="true" duration-ms="12132" started-at="2018-09-09T22:49:26Z" finished-at="2018-09-09T22:49:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCreateAccountLinkTest()[pri:3, instance:com.automationpractice.testcases.LoginPageTest@59e84876]" name="verifyCreateAccountLinkTest" duration-ms="3780" started-at="2018-09-09T22:49:38Z" finished-at="2018-09-09T22:49:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateAccountLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.automationpractice.testcases.LoginPageTest@59e84876]" name="tearDown" is-config="true" duration-ms="2364" started-at="2018-09-09T22:49:42Z" finished-at="2018-09-09T22:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.testcases.LoginPageTest -->
+    </test> <!-- Automation Practice App Test Cases -->
+  </suite> <!-- Ganesh Ecommerce Automation Practice Suite -->
+</testng-results>

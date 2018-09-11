@@ -1,0 +1,14 @@
+com\automationpractice\pages\CategoryPage.class
+com\automationpractice\pages\MyPersonalPage.class
+com\automationpractice\pages\OrderHistoryPage.class
+com\automationpractice\util\TestUtil.class
+com\automationpractice\util\WebEventListener.class
+com\automationpractice\pages\MyAddressPage.class
+com\automationpractice\pages\MyWishListPage.class
+com\automationpractice\pages\UserRegistrationPage.class
+com\automationpractice\ExtentReportListener\ExtentReporterNG.class
+com\automationpractice\pages\MyCreditSlipsPage.class
+com\automationpractice\pages\HomePage.class
+com\automationpractice\pages\LoginPage.class
+com\automationpractice\base\TestBase.class
+com\automationpractice\pages\MyAccountPage.class
