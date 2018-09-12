@@ -1,6 +1,5 @@
 package com.automationpractice.pages;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -36,6 +35,8 @@ public class LoginPage extends TestBase {
 		
 		@FindBy(xpath="//h3[contains(text(),'Your personal information')]")
 		WebElement createAccountLabel;
+		
+		
 		
 		
 		
